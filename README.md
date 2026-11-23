@@ -42,4 +42,4 @@ Add images in a `screenshots/` folder and link them here: login, donor profile, 
 ## Author
 [Vadde Yaswanth Sai], [92600119333], [Marwadi University],
 [NAGEPOGU MAHESH BABU], [92610119014], [Marwadi University],
-[namee], [enroll], [Marwadi University]
+[Girijala jashwanth], [92500119236], [Marwadi University]
