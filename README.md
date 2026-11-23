@@ -40,6 +40,6 @@ Tables: `users`, `donors`, `blood_stock`, `blood_requests`. The script is in `sq
 Add images in a `screenshots/` folder and link them here: login, donor profile, admin stock, approvals with the insufficient-stock message, error page.
 
 ## Author
-[Vadde Yaswanth Sai], [92600119333], [Marwadi University]
-[NAGEPOGU MAHESH BABU], [92610119014], [Marwadi University]
+[Vadde Yaswanth Sai], [92600119333], [Marwadi University],
+[NAGEPOGU MAHESH BABU], [92610119014], [Marwadi University],
 [namee], [enroll], [Marwadi University]
